@@ -25,7 +25,8 @@ npm run test
 ```
 npm run lint
 ```
-
+## Demo
+![](public/images/demo.gif)
 
 
 
