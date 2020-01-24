@@ -1,5 +1,5 @@
 # vue-admin-panel
-vue 2 admin panel with template with vuetify, vuex, vue-router, lodash and axios.
+vue 2 admin panel with template with vuetify, vuex, vue-router, vue-router-middleware-plugin, lodash and axios.
 
 ## Project setup
 ```
