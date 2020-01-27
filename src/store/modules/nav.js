@@ -1,7 +1,7 @@
 export default {
     namespaced: true,
     state: {
-        status: false,
+        status: true,
     },
     getters: {
         getStoredNav: state => state.status
