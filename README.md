@@ -1,7 +1,7 @@
 # vue-admin-panel
 vue 2 admin panel with template with vuetify, vuex, vue-router, vue-router-middleware-plugin, lodash and axios.
 
-# Live demo: (https://rakeshsipai.github.io/vue-starter-admin-panel-demo/)
+# Live demo: [https://rakeshsipai.github.io/demo](https://rakeshsipai.github.io/vue-starter-admin-panel-demo/)
 
 ## Project setup
 ```
